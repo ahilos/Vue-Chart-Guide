@@ -650,10 +650,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@fancyapps/fancybox@^3.5.2":
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/@fancyapps/fancybox/-/fancybox-3.5.2.tgz#d6ff4bf3bc99dd69c53bcee9397d8cf698462fe3"
-  integrity sha512-8xZcTc8wNq53ihacnomPtw5uG/KccgYAa+KNl/3PLwlz1Aldl+LzYSTQA0GW39JMJkfE6aiTQrSxte36uxNJqQ==
+"@fancyapps/fancybox@^3.5.7":
+  version "3.5.7"
+  resolved "https://registry.yarnpkg.com/@fancyapps/fancybox/-/fancybox-3.5.7.tgz#12f8734663ec6eae7f9236b92ca236e6e07fdfd5"
+  integrity sha512-rcEtu8t+WnmqIDV/Wfm1yvy/nDdwc7YV25j9HLxGC2/WOsUhk9rcWg2nB8g1BrjRt9zaoADdjHTU6ILYTJzBBg==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
