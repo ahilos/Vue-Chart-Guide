@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.2",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-labels": "^1.1.0",
     "cpx": "^1.5.0",
     "jquery": "^3.3.1",
